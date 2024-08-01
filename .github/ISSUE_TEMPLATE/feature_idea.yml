@@ -1,5 +1,5 @@
 name: Feature idea
-description: Idea or request for some feature on the Committees and Groups GitBook
+description: Idea or request for some feature for the Orancles WG
 labels: [':thought_balloon: idea']
 body:
   - type: markdown
@@ -7,8 +7,8 @@ body:
       value: |
         **Thank you for contributing to our project!** :green_heart:
 
-        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/committees-groups-documentation/discussions/new?category=ideas).
-        That way, we can discuss & refine your idea together, before we adopt it as a feature into the committees and groups.
+        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/oracless-standards/discussions/new?category=ideas).
+        That way, we can discuss & refine your idea together, before we adopt it as a feature into the oracles.
 
   - type: textarea
     id: why

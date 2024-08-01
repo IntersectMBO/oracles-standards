@@ -1,3 +1,3 @@
-# Committees and Groups Changelog
+# Oracles and Standards Changelog
 
 All major changes to this project will be documented in this file.
