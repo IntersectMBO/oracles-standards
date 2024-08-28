@@ -1,8 +1,8 @@
-# Contributing to the Committees and Groups documentation
+# Contributing to the Oracles Standards documentation
 
 ## Table of Contents
 
-- [Contributing to the Committees and Groups documentation](#contributing-to-the-oracles-standards)
+- [Contributing to the Oracles Standards documentation](#contributing-to-the-oracles-standards)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [Roles and Responsibilities](#roles-and-responsibilities)

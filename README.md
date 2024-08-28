@@ -1,4 +1,4 @@
-# Committees and Groups Documentation
+# Oracles Standards Documentation
 
 This repository stores the documentation for Oracles WG.
 
