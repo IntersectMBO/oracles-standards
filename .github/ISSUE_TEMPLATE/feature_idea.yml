@@ -7,14 +7,14 @@ body:
       value: |
         **Thank you for contributing to our project!** :green_heart:
 
-        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/oracless-standards/discussions/new?category=ideas).
+        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/oracles-standards/discussions/new?category=ideas).
         That way, we can discuss & refine your idea together, before we adopt it as a feature into the oracles.
 
   - type: textarea
     id: why
     attributes:
       label: Why
-      description: Why do we need or want this feature
+      description: Why do we need or want this feature?
       placeholder: |
         Give context and describe the problem, challenge or opportunity you see
     validations:
@@ -24,7 +24,7 @@ body:
     id: what
     attributes:
       label: What
-      description: What is this feature roughly about
+      description: What is this feature roughly about?
       placeholder: |
         For example describe a new API endpoint, a change in messaging formats,
         a new configuration option, ...

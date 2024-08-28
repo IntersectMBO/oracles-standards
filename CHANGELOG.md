@@ -1,3 +1,3 @@
-# Oracles and Standards Changelog
+# Oracles Standards Changelog
 
 All major changes to this project will be documented in this file.
